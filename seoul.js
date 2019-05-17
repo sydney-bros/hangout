@@ -27,10 +27,10 @@ ${chalk.yellow('How to get to \'nonce\'')}
 Here's the map link
 http://kko.to/hap7wYj0M
 
-${chalk.yellow('Schedules')}
+${chalk.yellow('Schedule')}
 
-- 5/25(Sat): Younghoon hosts his birthday party. Just meet many people who works 
-- 5/26(Sun): In nonce, there's a hacking challenge. But I recommend you guys to go outside and enjoy Seoul.
+- 5/25(Sat): Younghoon hosts his birthday party. You can meet many people who works in the blockchain field in Korea.
+- 5/26(Sun): In nonce, there will be a hacking challenge. But I recommend you guys to go outside and enjoy Seoul.
              My suggestion is to go Han-gang park (Banpo). You should enjoy Chicken and beer there.
              http://kko.to/S-jHLYjjM
 - 5/27(Mon): The first day of ETHCon Korea. We also have another party at 'nonce' from 7pm.
