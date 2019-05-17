@@ -1,0 +1,25 @@
+{
+  "name": "hangout",
+  "version": "1.0.0",
+  "description": "Let's hang out",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "hangout": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sydney-bros/hangout.git"
+  },
+  "author": "Wanseob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sydney-bros/hangout/issues"
+  },
+  "homepage": "https://github.com/sydney-bros/hangout#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "figlet": "^1.2.1"
+  }
+}
