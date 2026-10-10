@@ -20,6 +20,6 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^2.20.0",
-    "figlet": "^1.2.1"
+    "figlet": "^1.11.3"
   }
 }
